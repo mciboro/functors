@@ -1,1 +1,1 @@
-Simple example of using functors in C.
+Simple example of using functors in C and in C++.
